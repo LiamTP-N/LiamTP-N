@@ -6,7 +6,7 @@ My website is the best place to see everything: **[liamtp-n.gitlab.io](https://l
 
 I research minimal-dose resistance training for older adults, biomechanics and wearable sensors, and I build the data pipelines behind that work in R and Python. My doctoral research developed a range-of-motion-based training protocol for older adults, and I'm now turning it into something people can actually use: the free [ROM-Based Exercise app](https://liamtp-n.gitlab.io/app.html), which uses pose estimation to adapt a home exercise session to your mobility. No equipment, no sign-up.
 
-I also peer-review for Springer Nature journals (50+ reports) and keep a free jobs board and live research feed on my site for students and early-career researchers.
+I also peer-review for a range of journals (50+ reports) and keep a free jobs board and live research feed on my site for students and early-career researchers.
 
 ## Public repositories
 - **Consultation-Services**: the GitHub copy of my website, kept in sync with the main site on GitLab
